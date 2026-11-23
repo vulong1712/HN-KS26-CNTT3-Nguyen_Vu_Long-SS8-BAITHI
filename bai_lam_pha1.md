@@ -13,7 +13,8 @@
 **GHI CHU DA AN DANH**
 
 ```text
-Khách hàng [TEN_KHACH], số điện thoại [SĐT], số CCCD [SO_CCCD], email [DIA_CHI_EMAIL], đăng ký 3 vé gói CB buổi hội thảo Ngày hội Tài chính Gia đình ngày 20/12/2026 cho 2 người lớn và 1 trẻ em 10 tuổi. Khách hàng đã chuyển khoản đặt cọc 1.000.000 đồng. Khách hàng yêu cầu 3 ghế ngồi cạnh nhau ở dãy bàn đầu gần màn hình chiếu.```
+Khách hàng [TEN_KHACH], số điện thoại [SĐT], số CCCD [SO_CCCD], email [DIA_CHI_EMAIL], đăng ký 3 vé gói CB buổi hội thảo Ngày hội Tài chính Gia đình ngày 20/12/2026 cho 2 người lớn và 1 trẻ em 10 tuổi. Khách hàng đã chuyển khoản đặt cọc 1.000.000 đồng. Khách hàng yêu cầu 3 ghế ngồi cạnh nhau ở dãy bàn đầu gần màn hình chiếu.
+```
 
 ### b) Hai câu lệnh chống ảo giác
 
